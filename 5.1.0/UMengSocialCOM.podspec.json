@@ -13,7 +13,7 @@
     "UMeng": "support@umeng.com"
   },
   "source": {
-    "http": "https://git.limijiaoyin.com/jarvys/UMengSocialCOM/raw/master/releases/Umeng_SDK_Social_iOS_ARM64_5.1.zip"
+    "http": "https://raw.githubusercontent.com/limijiaoyin/UmengSocialCOM/master/releases/Umeng_SDK_Social_iOS_ARM64_5.1.zip"
   },
   "source_files": [
     "Umeng_SDK_Social_iOS_ARM64_5.1/UMSocial_Sdk_5.1/Header/*.h",
